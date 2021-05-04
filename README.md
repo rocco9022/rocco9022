@@ -10,4 +10,5 @@ I have a good linguistic level that has allowed me to learn languages such as En
 I am always in search of acquiring knowledge, updating and having new challenges.
 
 My Portfolio: https://rocco9022.github.io/
-Contact: rocco.hys@gmail.com | +549 11 30265941
+
+Contact: rocco.hys@gmail.com | +549 11 30265941 | https://www.linkedin.com/in/leandro-rocco/
