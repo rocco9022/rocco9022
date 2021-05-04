@@ -11,6 +11,9 @@ I am always in search of acquiring knowledge, updating and having new challenges
 
 My Portfolio: https://rocco9022.github.io/
 
-Contact: rocco.hys@gmail.com | +549 11 30265941 | https://www.linkedin.com/in/leandro-rocco/
+Contact: 
+rocco.hys@gmail.com 
+
++549 11 30265941 |
 
 <li><a href="https://www.linkedin.com/in/leandro-rocco/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
