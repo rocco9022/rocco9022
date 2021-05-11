@@ -1,6 +1,6 @@
 - 👋 Hey, My name is Leandro!
 
-I'm Full Stack Javascript Developer ⚡  React | Redux | React native | NodeJs | Express | PostgreSQL | Sequelize | Python |  HTML | CSS  ⚡
+I'm Full Stack Javascript Developer ⚡  React | Redux | Typescript | NodeJs | Express | PostgreSQL | Sequelize | Python |  HTML | CSS  ⚡
 
 
 
