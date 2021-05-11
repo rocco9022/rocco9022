@@ -1,6 +1,7 @@
 - 👋 Hey, My name is Leandro!
 
-I am Full Stack Javascript Developer      ------->>>        React | Redux | React native | NodeJs | Express | PostgreSQL | Sequelize | Python |  HTML | CSS
+I am Full Stack Javascript Developer  ![image](https://user-images.githubusercontent.com/74310843/117820170-a6bd3180-b240-11eb-9cf8-7e71296e9a55.png)
+    ------->>>        React | Redux | React native | NodeJs | Express | PostgreSQL | Sequelize | Python |  HTML | CSS
 
 I have a good linguistic level that has allowed me to learn languages such as English that I develop fluently and Portuguese that I am bilingual. They are incorporated into Spanish, which is my native language. 
 
