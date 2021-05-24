@@ -1,6 +1,9 @@
 # HEY!, My name is Leandro! 👋 
 
-I'm Full Stack Javascript Developer ⚡  React | Redux | Typescript | NodeJs | Express | PostgreSQL | Sequelize | Python |  HTML | CSS  ⚡
+I'm Full Stack Javascript Developer 
+I have learned and implemented several technologies such as...
+
+                       ⚡  React | Redux | Typescript | NodeJs | Express | PostgreSQL | Sequelize | Python |  HTML | CSS  ⚡
 
 
 
@@ -11,7 +14,7 @@ I'm Full Stack Javascript Developer ⚡  React | Redux | Typescript | NodeJs | E
 
 
 
-earth_americas I decided to get involved in the tech world because I realized that not being part of it is not an option. Moreover, not in a life where change is the only constant.
+📝 I decided to get involved in the tech world because I realized that not being part of it is not an option. Moreover, not in a life where change is the only constant.
 
 🔭 I have a good linguistic level that has allowed me to learn languages such as English that I develop fluently and Portuguese that I am bilingual. They are incorporated into Spanish, which is my native language. 
 
