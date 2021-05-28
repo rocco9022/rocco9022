@@ -7,7 +7,7 @@ I have learned and implemented several technologies such as...
             ⚡  React | Redux | Typescript | NodeJs | Express | PostgreSQL | Sequelize | Python |  HTML | CSS  ⚡
 
 
-
+📝 I decided to get involved in the tech world because I realized that not being part of it is not an option. Moreover, not in a life where change is the only constant.
 <h3 align="left">Languages and Tools:</h3>
 
 <h5>Front-end Technologies:</h5>
@@ -66,7 +66,7 @@ I have learned and implemented several technologies such as...
 
 
 
-📝 I decided to get involved in the tech world because I realized that not being part of it is not an option. Moreover, not in a life where change is the only constant.
+
 
 🔭 I have a good linguistic level that has allowed me to learn languages such as English that I develop fluently and Portuguese that I am bilingual. They are incorporated into Spanish, which is my native language. 
 
