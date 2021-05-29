@@ -4,7 +4,7 @@
 
 I have learned and implemented several technologies such as...
 
-            ⚡  Javascript | Python | Typescript | React | Redux | HTML | NodeJs | Express | PostgreSQL | Sequelize | CSS  ⚡
+            ⚡  Javascript|Python|Typescript|React|Redux|HTML|NodeJs|Express|PostgreSQL|Sequelize|CSS  ⚡
 
 
 📝 I decided to get involved in the tech world because I realized that not being part of it is not an option. Moreover, not in a life where change is the only constant.
