@@ -77,7 +77,7 @@ I am always in search of acquiring knowledge, updating and having new challenges
 📫 Contact: 
 rocco.hys@gmail.com | +549 11 30265941 
 
-<li><a href="https://drive.google.com/file/d/1krhJg03NqlYGLLOlMWMnUTUlz3xFxI9a/view?usp=sharing" target="_blank" class="actions special">Download CV</a></li>
+<li><a href="https://drive.google.com/file/d/1f9tBmrHd1kOhG4MgwHL54UeKH08aSx6O/view?usp=sharing" target="_blank" class="actions special">Download CV</a></li>
 
 
 <li><a href="https://www.linkedin.com/in/leandro-rocco/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
