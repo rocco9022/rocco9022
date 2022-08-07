@@ -1,10 +1,10 @@
 # HEY!, My name is Leandro! 👋 
 
-                                            I'm Full Stack Developer.
+                                            I'm a UX UI & Product Designer & Full Stack Developer.
 
 I have learned and implemented several technologies such as...
 
-            ⚡  Javascript|Python|Typescript|React|Redux|HTML|CSS|NodeJs|Express|PostgreSQL|Sequelize ⚡
+            ⚡  Figma|Invision|Adobe|Miro|Javascript|Python|Typescript|React|Redux|HTML|CSS|NodeJs|Express|PostgreSQL|Sequelize ⚡
 
 
 📝 I decided to get involved in the tech world because I realized that not being part of it is not an option. Moreover, not in a life where change is the only constant.
@@ -71,12 +71,12 @@ I have learned and implemented several technologies such as...
 
 I am always in search of acquiring knowledge, updating and having new challenges.
 
- 🌱 My Portfolio: https://rocco9022.github.io/
+ 🌱 My Portfolio: https://roccodesigner.vercel.app/
 
 📫 Contact: 
-rocco.hys@gmail.com | +549 11 30265941 
+rocco.hys@gmail.com | +55 48 988 572920 
 
-<li><a href="https://drive.google.com/file/d/1f9tBmrHd1kOhG4MgwHL54UeKH08aSx6O/view?usp=sharing" target="_blank" class="actions special">Download CV</a></li>
+<li><a href="https://drive.google.com/file/d/1mMGqeZ-X-DHh2hU3PVZ1hoyyrQ8mQzb4/view?usp=sharing" target="_blank" class="actions special">Download CV</a></li>
 
 
 <li><a href="https://www.linkedin.com/in/leandro-rocco/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
