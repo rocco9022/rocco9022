@@ -22,6 +22,15 @@ I have learned and implemented several technologies such as...
     <img src="https://cdn-icons-png.flaticon.com/512/226/226767.png" alt="adobe" width="40" height="40"/> 
   </a>
   
+  <a>
+    <img src="[https://cdn-icons-png.flaticon.com/512/226/226767.png](https://w7.pngwing.com/pngs/177/766/png-transparent-invision-social-media-icon-thumbnail.png)" alt="invision" width="40" height="40"/> 
+  </a>
+  
+   <a>
+    <img src="https://www.icesi.edu.co/servicios/wp-content/uploads/2020/08/Miro-Icono.png" alt="invision" width="40" height="40"/> 
+  </a>
+  
+  
   
 </p>
 
