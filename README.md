@@ -23,7 +23,7 @@ I have learned and implemented several technologies such as...
   </a>
   
   <a>
-    <img src="[https://cdn-icons-png.flaticon.com/512/226/226767.png](https://w7.pngwing.com/pngs/177/766/png-transparent-invision-social-media-icon-thumbnail.png)" alt="invision" width="40" height="40"/> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968720.png" alt="invision" width="40" height="40"/> 
   </a>
   
    <a>
