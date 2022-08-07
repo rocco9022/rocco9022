@@ -14,9 +14,9 @@ I have learned and implemented several technologies such as...
 <h5>Design Technologies:</h5>
 <p align="left"> 
 
-
+<a>
     <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" alt="javascript" width="40" height="40"/> 
-
+  </a>
 </p>
 
 <h5>Front-end Technologies:</h5>
