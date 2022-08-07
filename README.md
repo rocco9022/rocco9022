@@ -10,6 +10,15 @@ I have learned and implemented several technologies such as...
 📝 I decided to get involved in the tech world because I realized that not being part of it is not an option. Moreover, not in a life where change is the only constant.
 <h3 align="left">Languages and Tools:</h3>
 
+
+<h5>Design Technologies:</h5>
+<p align="left"> 
+
+
+    <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" alt="javascript" width="40" height="40"/> 
+
+</p>
+
 <h5>Front-end Technologies:</h5>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
