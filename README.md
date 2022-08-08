@@ -96,6 +96,8 @@ I have learned and implemented several technologies such as...
 I am always in search of acquiring knowledge, updating and having new challenges.
 
  🌱 My Portfolio: https://roccodesigner.vercel.app/
+ 🌱 My design works: https://www.behance.net/leandrorocco
+ 
 
 📫 Contact: 
 rocco.hys@gmail.com | +55 48 988 572920 
