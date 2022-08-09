@@ -8,6 +8,10 @@ I have learned and implemented several technologies such as...
 
 
 📝 I decided to get involved in the tech world because I realized that not being part of it is not an option. Moreover, not in a life where change is the only constant.
+
+As a Product Designer, I can help you mitigate your UX and UI problems, and bring your product to a new higher professional level.
+I specialize in web and mobile applications, and I’ve worked with a variety of clients, always keeping focus on it’s culture and applying all my art and design best practices.
+My work is always driven by my passion to create really smooth user interfaces, that are beautifull and functional.
 <h3 align="left">Languages and Tools:</h3>
 
 
