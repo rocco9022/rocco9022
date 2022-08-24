@@ -104,9 +104,7 @@ I am always in search of acquiring knowledge, updating and having new challenges
  
 
 📫 Contact: 
-rocco.hys@gmail.com | +55 48 988 572920 
-
-<li><a href="hhttps://drive.google.com/file/d/1S1Ex0UGFT9vI6WK60PPOWRkYLG4ATOAo/view?usp=sharing" target="_blank" class="actions special">Download CV</a></li>
+leandro@roccodesigner.com | +55 48 988 572920 
 
 
 <li><a href="https://www.linkedin.com/in/leandro-rocco/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
