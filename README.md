@@ -104,7 +104,7 @@ I am always in search of acquiring knowledge, updating and having new challenges
  
 
 📫 Contact: 
-leandro@roccodesigner.com | +55 48 988 572920 
+leandro@roccodesigner.com 
 
 
 <li><a href="https://www.linkedin.com/in/leandro-rocco/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
