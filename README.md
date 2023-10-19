@@ -7,11 +7,11 @@ I have learned and implemented several technologies such as...
             ⚡  Figma|Invision|Adobe|Miro|Javascript|Python|Typescript|React|Redux|HTML|CSS|NodeJs|Express|PostgreSQL|Sequelize ⚡
 
 
-📝 I decided to get involved in the tech world because I realized that not being part of it is not an option. Moreover, not in a life where change is the only constant.
+📝 I chose to dive into the tech world because I realized that not being a part of it is simply not an option, especially in a life where change is the only constant. 
 
-As a Product Designer, I can help you mitigate your UX and UI problems, and bring your product to a new higher professional level.
-I specialize in web and mobile applications, and I’ve worked with a variety of clients, always keeping focus on it’s culture and applying all my art and design best practices.
-My work is always driven by my passion to create really smooth user interfaces, that are beautifull and functional.
+As a Product Designer, I am dedicated to helping you solve your UX and UI challenges and elevate your product to a higher professional standard. My expertise lies in crafting seamless user experiences for web and mobile applications. 
+I've collaborated with diverse clients, always centering my approach around their unique culture and applying my artistic and design best practices. My work is fueled by a deep passion for creating user interfaces that are not only visually appealing but also highly functional. Let's transform your digital presence together!
+
 <h3 align="left">Languages and Tools:</h3>
 
 
