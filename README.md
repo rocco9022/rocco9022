@@ -4,7 +4,7 @@
 
 I have learned and implemented several technologies such as...
 
-            ⚡  Figma|Invision|Adobe|Miro|Javascript|Python|Typescript|React|Redux|HTML|CSS|NodeJs|Express|PostgreSQL|Sequelize ⚡
+            ⚡  Figma|Maze|Adobe|Miro|Javascript|Python|Typescript|React|Redux|HTML|CSS|NodeJs|Express|PostgreSQL|Sequelize ⚡
 
 
 📝 I chose to dive into the tech world because I realized that not being a part of it is simply not an option, especially in a life where change is the only constant. 
